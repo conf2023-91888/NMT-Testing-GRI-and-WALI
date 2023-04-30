@@ -1,0 +1,1100 @@
+LCS-Wdiff:	0.5555555555555556 True
+ED-Wdiff:	0.5555555555555556 True
+Tf-idf-Wdiff:	0.78095417550166 True
+BLEU-Wdiff:	0.37903258204460144 True
+苏 格 兰 皇 家 银 行 消 失 在 苏 格 兰 以 外 的 客 户 面 前
+Royal Bank of Scotland to disappear for customers outside Scotland
+苏 格 兰 皇 家 银 行 将 退 出 海 外 客 户
+Royal Bank of Scotland to disappear for customers abroad Scotland
+苏 格 兰 皇 家 银 行 将 退 出 海 外 客 户
+label: True
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+我 很 高 兴 这 发 生 在 新 市 场 , 因 为 这 里 是 我 3 0 年 前 登 陆 的 地 方 。
+I'm very pleased for it to have happened at Newmarket because this is where I landed 30 years ago.
+我 很 高 兴 这 发 生 在 新 市 场 , 因 为 这 里 是 我 3 0 年 前 登 陆 的 地 方 。
+I'm very pleased for it to have happened at Newmarket because this was where I landed 30 years ago.
+我 很 高 兴 这 发 生 在 新 市 场 , 因 为 这 里 是 我 3 0 年 前 登 陆 的 地 方 。
+label: False
+
+LCS-Wdiff:	0.9024390243902439 True
+ED-Wdiff:	0.8372093023255813 True
+Tf-idf-Wdiff:	0.9987134210014821 False
+BLEU-Wdiff:	0.8956549763679504 False
+俄 罗 斯 和 土 耳 其 领 导 人 星 期 二 会 晤 , 与 双 方 握 手 , 宣 布 结 束 了 长 达 八 个 月 的 言 语 战 争 和 经 济 制 裁 。
+The leaders of Russia and Turkey met on Tuesday to shake hands and declare a formal end to an eight-month long war of words and economic sanctions.
+星 期 二 , 俄 罗 斯 和 土 耳 其 领 导 人 会 晤 , 彼 此 握 手 , 宣 布 结 束 了 长 达 八 个 月 的 言 语 战 争 和 经 济 制 裁 。
+to leaders of Russia and Turkey met on Tuesday to shake hands and declare a formal end to an eight-month long war of words and economic sanctions.
+星 期 二 , 俄 罗 斯 和 土 耳 其 领 导 人 会 晤 , 彼 此 握 手 , 宣 布 结 束 了 长 达 八 个 月 的 言 语 战 争 和 经 济 制 裁 。
+label: False
+
+LCS-Wdiff:	0.975 False
+ED-Wdiff:	0.975 False
+Tf-idf-Wdiff:	0.993787769807291 False
+BLEU-Wdiff:	0.9343039989471436 False
+在 约 翰 · 戈 斯 登 的 训 练 下 , 他 在 当 地 的 田 径 比 赛 中 , 与 他 晚 上 的 第 二 个 获 胜 者 一 起 把 地 标 抬 高 了 。
+He brought up the landmark with his second winner of the night at his local track-on Predilection, trained by John Gosden.
+在 约 翰 · 戈 斯 登 的 训 练 下 , 他 在 当 地 的 田 径 比 赛 中 , 与 他 晚 上 的 第 二 个 获 胜 者 一 起 树 立 了 地 标 。
+He put up the landmark with his second winner of the night at his local track-on Predilection, trained by John Gosden.
+在 约 翰 · 戈 斯 登 的 训 练 下 , 他 在 当 地 的 田 径 比 赛 中 , 与 他 晚 上 的 第 二 个 获 胜 者 一 起 树 立 了 地 标 。
+label: False
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+嗯 , 结 果 证 明 我 担 任 总 统 办 公 室 主 任 已 经 4 年 零 8 个 月 了 。
+Well, it turns out that I've been presidential chief of staff for four years and eight months.
+嗯 , 结 果 证 明 我 担 任 总 统 办 公 室 主 任 已 经 4 年 零 8 个 月 了 。
+Well, the turns out that I've been presidential chief of staff for four years and eight months.
+嗯 , 结 果 证 明 我 担 任 总 统 办 公 室 主 任 已 经 4 年 零 8 个 月 了 。
+label: False
+
+LCS-Wdiff:	0.9705882352941176 False
+ED-Wdiff:	0.9705882352941176 False
+Tf-idf-Wdiff:	0.9956833822816252 False
+BLEU-Wdiff:	0.9701514840126038 False
+他 性 格 活 泼 , 对 英 国 赛 车 很 有 帮 助 , 但 更 重 要 的 是 , 他 是 一 个 难 以 置 信 的 骑 师 。
+He's a lively character which is good for British racing but more than that, he's an incredible jockey.
+这 个 性 格 活 泼 , 对 英 国 赛 车 很 有 帮 助 , 但 更 重 要 的 是 , 他 是 个 难 以 置 信 的 骑 师 。
+the's a lively character which is good for British racing but more than that, he's an incredible jockey.
+这 个 性 格 活 泼 , 对 英 国 赛 车 很 有 帮 助 , 但 更 重 要 的 是 , 他 是 个 难 以 置 信 的 骑 师 。
+label: False
+
+LCS-Wdiff:	0.8297872340425532 True
+ED-Wdiff:	0.8125 True
+Tf-idf-Wdiff:	0.8512371494791092 True
+BLEU-Wdiff:	0.7728919386863708 True
+苏 格 兰 皇 家 银 行 已 经 表 示 , 将 不 再 继 续 其 六 国 赞 助 活 动 , 并 且 一 直 在 其 体 育 赞 助 活 动 中 提 升 不 同 品 牌 的 形 象 。
+RBS had already stated that it would not to continue its Six Nations sponsorship, and it has been raising the profile of different brands in its sports sponsorship.
+美 国 体 育 协 会 已 经 表 示 , 它 不 会 继 续 其 六 国 赞 助 活 动 , 并 且 它 一 直 在 其 体 育 赞 助 活 动 中 提 升 不 同 品 牌 的 形 象 。
+ofS had already stated that it would not to continue its Six Nations sponsorship, and it has been raising the profile of different brands in its sports sponsorship.
+美 国 体 育 协 会 已 经 表 示 , 它 不 会 继 续 其 六 国 赞 助 活 动 , 并 且 它 一 直 在 其 体 育 赞 助 活 动 中 提 升 不 同 品 牌 的 形 象 。
+label: False
+
+LCS-Wdiff:	0.9230769230769231 True
+ED-Wdiff:	0.9230769230769231 True
+Tf-idf-Wdiff:	0.9673117370794502 False
+BLEU-Wdiff:	0.8399257063865662 True
+因 此 , 在 这 座 光 辉 的 海 边 宫 殿 的 峰 会 上 , 俄 罗 斯 和 土 耳 其 展 示 了 一 位 分 析 师 对 我 描 述 的 “ 不 正 当 联 盟 ” : 这 两 个 国 家 感 觉 被 西 方 抛 弃 和 虐 待 , 并 加 入 其 中 。
+So the summit at this glitzy, seaside palace allowed Russia and Turkey to present what one analyst described to me as an " alliance of misfits " : two countries that feel rejected and mistreated by the West, joining forces.
+在 这 座 光 辉 的 海 边 宫 殿 的 顶 峰 上 , 俄 罗 斯 和 土 耳 其 展 示 了 一 位 分 析 师 对 我 描 述 的 “ 不 正 当 联 盟 ” : 这 两 个 国 家 感 到 被 西 方 抛 弃 和 虐 待 , 加 入 军 队 。
+to the summit at this glitzy, seaside palace allowed Russia and Turkey to present what one analyst described to me as an " alliance of misfits " : two countries that feel rejected and mistreated by the West, joining forces.
+在 这 座 光 辉 的 海 边 宫 殿 的 顶 峰 上 , 俄 罗 斯 和 土 耳 其 展 示 了 一 位 分 析 师 对 我 描 述 的 “ 不 正 当 联 盟 ” : 这 两 个 国 家 感 到 被 西 方 抛 弃 和 虐 待 , 加 入 军 队 。
+label: False
+
+LCS-Wdiff:	0.9428571428571428 True
+ED-Wdiff:	0.9428571428571428 True
+Tf-idf-Wdiff:	0.9392181268929396 True
+BLEU-Wdiff:	0.8461453318595886 True
+从 飞 行 终 点 到 飞 下 山 , 弗 兰 基 · 迪 托 里 二 十 年 来 一 直 是 英 国 平 板 赛 的 海 报 男 孩 。
+From flying finishes to flying dismounts, Frankie Dettori has been the poster boy of British Flat racing for two decades.
+从 飞 行 限 定 语 到 飞 翔 下 山 , 弗 兰 基 · 迪 托 里 二 十 年 来 一 直 是 英 国 平 板 赛 场 的 海 报 男 孩 。
+From flying qualifiers to flying dismounts, Frankie Dettori has been the poster boy of British Flat racing for two decades.
+从 飞 行 限 定 语 到 飞 翔 下 山 , 弗 兰 基 · 迪 托 里 二 十 年 来 一 直 是 英 国 平 板 赛 场 的 海 报 男 孩 。
+label: True
+
+LCS-Wdiff:	0.3870967741935484 True
+ED-Wdiff:	0.19354838709677424 True
+Tf-idf-Wdiff:	0.6520840542879087 True
+BLEU-Wdiff:	0.3525349199771881 True
+他 既 时 髦 又 强 壮 , 但 是 在 称 重 室 里 , 他 和 别 人 区 别 开 来 的 是 他 的 战 术 内 涵 。
+He is stylish and strong, but it is his tactical nous that sets him apart from others in the weighing room.
+时 尚 而 强 健 , 但 正 是 他 的 战 术 内 涵 使 他 在 称 重 室 里 与 众 不 同 。
+to is stylish and strong, but it is his tactical nous that sets him apart from others in the weighing room.
+时 尚 而 强 健 , 但 正 是 他 的 战 术 内 涵 使 他 在 称 重 室 里 与 众 不 同 。
+label: True
+
+LCS-Wdiff:	0.8064516129032258 True
+ED-Wdiff:	0.71875 True
+Tf-idf-Wdiff:	0.9439901097961988 True
+BLEU-Wdiff:	0.6236245036125183 True
+他 既 时 髦 又 强 壮 , 但 是 在 称 重 室 里 , 他 和 别 人 区 别 开 来 的 是 他 的 战 术 内 涵 。
+He is stylish and strong, but it is his tactical nous that sets him apart from others in the weighing room.
+并 且 很 时 髦 , 很 强 壮 , 但 是 使 他 在 称 重 室 里 与 别 人 区 别 的 却 是 他 的 战 术 内 涵 。
+and is stylish and strong, but it is his tactical nous that sets him apart from others in the weighing room.
+并 且 很 时 髦 , 很 强 壮 , 但 是 使 他 在 称 重 室 里 与 别 人 区 别 的 却 是 他 的 战 术 内 涵 。
+label: False
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+从 飞 行 终 点 到 飞 下 山 , 弗 兰 基 · 迪 托 里 二 十 年 来 一 直 是 英 国 平 板 赛 的 海 报 男 孩 。
+From flying finishes to flying dismounts, Frankie Dettori has been the poster boy of British Flat racing for two decades.
+从 飞 栏 到 飞 下 山 , 弗 兰 基 · 迪 托 里 二 十 年 来 一 直 是 英 国 平 板 赛 的 海 报 男 孩 。
+From flying hurdles to flying dismounts, Frankie Dettori has been the poster boy of British Flat racing for two decades.
+从 飞 栏 到 飞 下 山 , 弗 兰 基 · 迪 托 里 二 十 年 来 一 直 是 英 国 平 板 赛 的 海 报 男 孩 。
+label: False
+
+LCS-Wdiff:	0.7391304347826086 True
+ED-Wdiff:	0.7391304347826086 True
+Tf-idf-Wdiff:	0.7577466746354912 True
+BLEU-Wdiff:	0.6070986986160278 True
+安 卡 拉 对 西 方 不 满 , 认 为 西 方 对 收 购 企 图 反 应 不 力 。
+Ankara is angry with the West for what it considers a weak response to the attempted takeover.
+安 卡 拉 对 西 方 感 到 愤 怒 , 因 为 它 认 为 对 收 购 企 图 反 应 微 弱 。
+Ankara is angry with the West for what it believes a weak response to the attempted takeover.
+安 卡 拉 对 西 方 感 到 愤 怒 , 因 为 它 认 为 对 收 购 企 图 反 应 微 弱 。
+label: True
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+旧 金 山 医 学 检 查 师 办 公 室 说 , 星 期 三 上 午 在 威 斯 特 菲 尔 德 购 物 中 心 发 现 的 尸 体 被 确 认 为 旧 金 山 2 8 岁 的 居 民 F r a n k   G a l i c i a 。
+The body found at the Westfield Mall Wednesday morning was identified as 28-year-old San Francisco resident Frank Galicia, the San Francisco Medical Examiner's Office said.
+旧 金 山 医 学 检 查 师 办 公 室 说 , 星 期 三 上 午 在 威 斯 特 菲 尔 德 购 物 中 心 发 现 的 尸 体 被 确 认 为 旧 金 山 2 8 岁 的 居 民 F r a n k   G a l i c i a 。
+the body found at the Westfield Mall Wednesday morning was identified as 28-year-old San Francisco resident Frank Galicia, the San Francisco Medical Examiner's Office said.
+旧 金 山 医 学 检 查 师 办 公 室 说 , 星 期 三 上 午 在 威 斯 特 菲 尔 德 购 物 中 心 发 现 的 尸 体 被 确 认 为 旧 金 山 2 8 岁 的 居 民 F r a n k   G a l i c i a 。
+label: False
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+我 认 为 政 府 最 重 要 的 任 务 是 支 持 你 作 为 国 家 元 首 的 活 动 , 起 草 法 律 , 控 制 你 的 指 示 是 如 何 执 行 的 。
+I think the administration's most important task is to support your activity as head of state in terms of drafting laws and control over how your instructions are implemented.
+我 认 为 贵 政 府 最 重 要 的 任 务 是 支 持 你 作 为 国 家 元 首 的 活 动 , 起 草 法 律 , 控 制 你 的 指 示 是 如 何 执 行 的 。
+I think your administration's most important task is to support your activity as head of state in terms of drafting laws and control over how your instructions are implemented.
+我 认 为 贵 政 府 最 重 要 的 任 务 是 支 持 你 作 为 国 家 元 首 的 活 动 , 起 草 法 律 , 控 制 你 的 指 示 是 如 何 执 行 的 。
+label: False
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+关 键 是 叙 利 亚 , 莫 斯 科 最 近 一 直 充 当 和 平 缔 造 者 , 但 俄 罗 斯 和 土 耳 其 却 背 靠 背 。
+The key one is Syria, where Moscow has recently been casting itself as peacemaker but where Russia and Turkey back opposite sides.
+关 键 是 叙 利 亚 , 莫 斯 科 最 近 一 直 充 当 和 平 缔 造 者 , 但 俄 罗 斯 和 土 耳 其 却 背 靠 背 。
+the key one is Syria, where Moscow has recently been casting itself as peacemaker but where Russia and Turkey back opposite sides.
+关 键 是 叙 利 亚 , 莫 斯 科 最 近 一 直 充 当 和 平 缔 造 者 , 但 俄 罗 斯 和 土 耳 其 却 背 靠 背 。
+label: False
+
+LCS-Wdiff:	0.8863636363636364 True
+ED-Wdiff:	0.8863636363636364 True
+Tf-idf-Wdiff:	0.9375711553202424 True
+BLEU-Wdiff:	0.8462368845939636 True
+几 周 前 我 在 E p s o m 对 弗 兰 基 说 , 如 果 他 不 只 是 周 末 和 大 赛 跑 的 骑 手 , 他 就 会 骑 着 6 0 0 0 个 赢 家 !
+I said to Frankie a few weeks ago at Epsom he'd have ridden 6, 000 winners if he wasn't just a weekend and big-race jockey !
+我 几 周 前 在 埃 普 森 对 弗 兰 基 说 , 如 果 他 不 只 是 周 末 和 大 赛 跑 的 骑 手 , 他 就 会 骑 着 6 0 0 0 个 赢 家 !
+I says to Frankie a few weeks ago at Epsom he'd have ridden 6, 000 winners if he wasn't just a weekend and big-race jockey !
+我 几 周 前 在 埃 普 森 对 弗 兰 基 说 , 如 果 他 不 只 是 周 末 和 大 赛 跑 的 骑 手 , 他 就 会 骑 着 6 0 0 0 个 赢 家 !
+label: False
+
+LCS-Wdiff:	0.7894736842105263 True
+ED-Wdiff:	0.7435897435897436 True
+Tf-idf-Wdiff:	0.8883657933691578 True
+BLEU-Wdiff:	0.6714208126068115 True
+路 易 斯 · 加 利 西 亚 说 , 弗 兰 克 起 初 住 在 旅 舍 里 ,   但 最 近 ,   “   事 情 最 终 对 他 来 说 还 不 错 .   ”
+Louis Galicia said Frank initially stayed in hostels, but recently, " Things were finally going well for him. "
+加 利 西 亚 人 说 , 弗 兰 克 最 初 住 在 旅 舍 里 , 但 是 最 近 , “ 事 情 最 终 对 他 来 说 是 好 的 。 ”
+the Galicia said Frank initially stayed in hostels, but recently, " Things were finally going well for him. "
+加 利 西 亚 人 说 , 弗 兰 克 最 初 住 在 旅 舍 里 , 但 是 最 近 , “ 事 情 最 终 对 他 来 说 是 好 的 。 ”
+label: True
+
+LCS-Wdiff:	0.4444444444444444 True
+ED-Wdiff:	0.4 True
+Tf-idf-Wdiff:	0.46100215839752234 True
+BLEU-Wdiff:	0.3363378643989563 True
+曾 经 三 次 夺 冠 的 赛 车 手 迪 托 利 在 加 亚 尔 的 比 赛 中 获 胜 , 他 说 :   “   这 是 特 别 的 .   ”
+Three-time champion jockey Dettori, who earlier won on Ghayyar, said : " It's special. "
+戴 托 利 ( D e t t o r i ) , 他 早 先 在 加 亚 亚 ( G h a y y a r ) 的 比 赛 中 获 胜 , 他 说 : “ 这 很 特 别 。 ”
+and-time champion jockey Dettori, who earlier won on Ghayyar, said : " It's special. "
+戴 托 利 ( D e t t o r i ) , 他 早 先 在 加 亚 亚 ( G h a y y a r ) 的 比 赛 中 获 胜 , 他 说 : “ 这 很 特 别 。 ”
+label: True
+
+LCS-Wdiff:	0.6666666666666666 True
+ED-Wdiff:	0.6666666666666667 True
+Tf-idf-Wdiff:	0.9778186775974529 False
+BLEU-Wdiff:	0.43597906827926636 True
+现   已   任 命   6 3   岁   的   人   为   环 境   和   运 输   问 题   特 别   代 表   。
+The 63-year-old has now been made a special representative for environmental and transport issues.
+现 年 6 3 岁 , 已 被 任 命 为 负 责 环 境 及 运 输 问 题 的 特 别 代 表 。
+in 63-year-old has now been made a special representative for environmental and transport issues.
+现 年 6 3 岁 , 已 被 任 命 为 负 责 环 境 及 运 输 问 题 的 特 别 代 表 。
+label: True
+
+LCS-Wdiff:	0.8 True
+ED-Wdiff:	0.8 True
+Tf-idf-Wdiff:	0.9268964335353037 True
+BLEU-Wdiff:	0.7404008507728577 True
+对 土 耳 其 的 多 次 恐 怖 袭 击 显 然 也 动 摇 了 他 。
+Repeat terror attacks on Turkey have clearly shaken him too.
+对 土 耳 其 的 多 次 恐 怖 袭 击 显 然 也 使 他 感 到 不 安 。
+Repeat terror attacks on Turkey have clearly disturbed him too.
+对 土 耳 其 的 多 次 恐 怖 袭 击 显 然 也 使 他 感 到 不 安 。
+label: False
+
+LCS-Wdiff:	0.8787878787878788 True
+ED-Wdiff:	0.8787878787878788 True
+Tf-idf-Wdiff:	0.9508263681376938 False
+BLEU-Wdiff:	0.8238130211830139 True
+年 青 医 生 和 医 科 学 生 在 7 月 投 票 否 决 了 与 B M A 达 成 协 议 的 合 同 协 议 。
+Junior doctors and medical students voted in July to reject a contract deal agreed with the BMA.
+年 青 医 生 和 医 科 学 生 在 7 月 投 票 否 决 了 与 B M A 达 成 协 议 的 医 科 医 生 协 议 。
+Junior doctors and medical students voted in July to reject a GP deal agreed with the BMA.
+年 青 医 生 和 医 科 学 生 在 7 月 投 票 否 决 了 与 B M A 达 成 协 议 的 医 科 医 生 协 议 。
+label: True
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+“   那 边 的 游 客 ,   那 边 的 西 红 柿 ,   ”   韦 德 莫 西 蒂 报 纸 的 一 篇 报 道 是 这 样 描 述 的 .
+" Tourists that way, tomatoes back here, " as a report in Vedemosti newspaper phrased it.
+“   那 边 的 游 客 ,   那 边 的 西 红 柿 ,   ”   韦 德 莫 西 蒂 报 纸 的 一 篇 报 道 是 这 样 描 述 的 .
+" tourists that way, tomatoes back here, " as a report in Vedemosti newspaper phrased it.
+“   那 边 的 游 客 ,   那 边 的 西 红 柿 ,   ”   韦 德 莫 西 蒂 报 纸 的 一 篇 报 道 是 这 样 描 述 的 .
+label: False
+
+LCS-Wdiff:	0.6428571428571429 True
+ED-Wdiff:	0.6428571428571428 True
+Tf-idf-Wdiff:	0.5476189278900246 True
+BLEU-Wdiff:	0.4474378228187561 True
+他 们 正 在 迎 晚 期 奔 赴 地 中 海 。
+They're banking on a late-season rush to the Mediterranean.
+他 们 正 搭 乘 晚 期 的 电 梯 飞 往 地 中 海 。
+They're banking on a late-season lift to the Mediterranean.
+他 们 正 搭 乘 晚 期 的 电 梯 飞 往 地 中 海 。
+label: True
+
+LCS-Wdiff:	0.8666666666666667 True
+ED-Wdiff:	0.8666666666666667 True
+Tf-idf-Wdiff:	0.9243677188891825 True
+BLEU-Wdiff:	0.7772105932235718 True
+上 周 五 , 马 奇 · 弗 兰 基 · 迪 托 利 在 纽 市 , 夺 得 了 他 的 3 0 0 0 名 英 国 冠 军 。
+Jockey Frankie Dettori secured his 3, 000th British winner at Newmarket on Friday.
+星 期 五 , 弗 兰 基 · 迪 托 利 在 新 市 场 夺 得 了 他 的 3 0 0 0 名 英 国 冠 军 。
+theckey Frankie Dettori secured his 3, 000th British winner at Newmarket on Friday.
+星 期 五 , 弗 兰 基 · 迪 托 利 在 新 市 场 夺 得 了 他 的 3 0 0 0 名 英 国 冠 军 。
+label: False
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+1 9 9 0 年 代 末 期 , 当 普 京 先 生 担 任 取 代 克 格 勃 的 联 邦 安 全 局 ( F S B   ) 局 长 时 , 伊 凡 诺 夫 先 生 被 任 命 为 他 的 副 手 。
+In the late 1990s, when Mr Putin was head of the Federal Security Service ( FSB ), which replaced the KGB, Mr Ivanov was appointed as his deputy.
+1 9 9 0 年 代 末 , 当 普 京 先 生 担 任 取 代 克 格 勃 的 联 邦 安 全 局 ( F S B ) 局 长 时 , 伊 凡 诺 夫 先 生 被 任 命 为 他 的 副 手 。
+and the late 1990s, when Mr Putin was head of the Federal Security Service ( FSB ), which replaced the KGB, Mr Ivanov was appointed as his deputy.
+1 9 9 0 年 代 末 , 当 普 京 先 生 担 任 取 代 克 格 勃 的 联 邦 安 全 局 ( F S B ) 局 长 时 , 伊 凡 诺 夫 先 生 被 任 命 为 他 的 副 手 。
+label: False
+
+LCS-Wdiff:	0.975 False
+ED-Wdiff:	0.975 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	0.9500106573104858 False
+普 京 星 期 五 对 一 家 俄 罗 斯 电 视 台 说 , 伊 万 诺 夫 要 求 离 开 这 个 岗 位 , 并 建 议 瓦 伊 诺 接 替 他 的 位 置 。
+Mr Putin told a Russian TV station on Friday that Mr Ivanov had asked to leave the post, and recommended that Mr Vaino should replace him.
+星 期 五 , 普 京 对 一 家 俄 罗 斯 电 视 台 说 伊 万 诺 夫 要 求 离 开 这 个 岗 位 , 并 建 议 瓦 伊 诺 接 替 他 的 位 置 。
+to Putin told a Russian TV station on Friday that Mr Ivanov had asked to leave the post, and recommended that Mr Vaino should replace him.
+星 期 五 , 普 京 对 一 家 俄 罗 斯 电 视 台 说 伊 万 诺 夫 要 求 离 开 这 个 岗 位 , 并 建 议 瓦 伊 诺 接 替 他 的 位 置 。
+label: False
+
+LCS-Wdiff:	0.9166666666666666 True
+ED-Wdiff:	0.9166666666666666 True
+Tf-idf-Wdiff:	0.9578461781592889 False
+BLEU-Wdiff:	0.8882572650909424 False
+首 席 执 行 官 说 : “ 现 在 我 们 转 移 到 品 牌 银 行 的 时 机 已 经 成 熟 , 因 为 我 们 一 直 在 问 , 在 下 面 , 我 们 如 何 专 注 于 让 这 家 更 好 的 客 户 银 行 呢 ? ”
+" The time is right for us to move to the bank of brands, because underneath ( we've been asking ) how do we focus on making this a better bank for customers ? " said the chief executive.
+首 席 执 行 官 说 : “ 现 在 是 我 们 转 移 到 品 牌 银 行 的 时 候 了 , 因 为 我 们 一 直 在 问 , 在 下 面 , 我 们 如 何 专 注 于 让 这 家 更 好 的 客 户 银 行 呢 ? ”
+" It time is right for us to move to the bank of brands, because underneath ( we've been asking ) how do we focus on making this a better bank for customers ? " said the chief executive.
+首 席 执 行 官 说 : “ 现 在 是 我 们 转 移 到 品 牌 银 行 的 时 候 了 , 因 为 我 们 一 直 在 问 , 在 下 面 , 我 们 如 何 专 注 于 让 这 家 更 好 的 客 户 银 行 呢 ? ”
+label: False
+
+LCS-Wdiff:	0.9787234042553191 False
+ED-Wdiff:	0.9787234042553191 False
+Tf-idf-Wdiff:	0.9990727146937669 False
+BLEU-Wdiff:	0.9780085682868958 False
+英 国 医 学 协 会   (   B M A   )   的 初 级 医 生 委 员 会   (   J D C   )   要 求 其 全 体 理 事 会 从 九 月 初 开 始 支 持 更 多 的 产 业 行 动 .
+The Junior Doctors Committee ( JDC ) of the British Medical Association ( BMA ) is to ask its full council to back more industrial action from early September.
+英 国 医 学 协 会 ( B M A ) 的 初 级 医 师 委 员 会 ( J D C ) 要 求 其 全 体 理 事 会 从 九 月 初 开 始 支 持 更 多 的 产 业 行 动 。
+of Junior Doctors Committee ( JDC ) of the British Medical Association ( BMA ) is to ask its full council to back more industrial action from early September.
+英 国 医 学 协 会 ( B M A ) 的 初 级 医 师 委 员 会 ( J D C ) 要 求 其 全 体 理 事 会 从 九 月 初 开 始 支 持 更 多 的 产 业 行 动 。
+label: False
+
+LCS-Wdiff:	0.8888888888888888 True
+ED-Wdiff:	0.8888888888888888 True
+Tf-idf-Wdiff:	0.9400457404371922 True
+BLEU-Wdiff:	0.8856590390205383 False
+1 9 9 0 年 代 末 期 , 当 普 京 先 生 担 任 取 代 克 格 勃 的 联 邦 安 全 局 ( F S B   ) 局 长 时 , 伊 凡 诺 夫 先 生 被 任 命 为 他 的 副 手 。
+In the late 1990s, when Mr Putin was head of the Federal Security Service ( FSB ), which replaced the KGB, Mr Ivanov was appointed as his deputy.
+直 到 2 0 世 纪 9 0 年 代 末 , 当 普 京 先 生 担 任 取 代 克 格 勃 的 联 邦 安 全 局 ( F S B ) 局 长 时 , 伊 凡 诺 夫 先 生 被 任 命 为 他 的 副 手 。
+to the late 1990s, when Mr Putin was head of the Federal Security Service ( FSB ), which replaced the KGB, Mr Ivanov was appointed as his deputy.
+直 到 2 0 世 纪 9 0 年 代 末 , 当 普 京 先 生 担 任 取 代 克 格 勃 的 联 邦 安 全 局 ( F S B ) 局 长 时 , 伊 凡 诺 夫 先 生 被 任 命 为 他 的 副 手 。
+label: False
+
+LCS-Wdiff:	0.813953488372093 True
+ED-Wdiff:	0.7674418604651163 True
+Tf-idf-Wdiff:	0.9383460931112244 True
+BLEU-Wdiff:	0.6981940865516663 True
+人 们 曾 经 认 为 , 伊 凡 诺 夫 在 普 京 连 任 后 可 能 成 为 俄 罗 斯 总 统 , 而 普 京 的 第 三 届 任 期 则 违 反 宪 法 。
+It was once thought that Mr Ivanov might become president of Russia after Mr Putin's second term, as a third term for Mr Putin would have been unconstitutional.
+曾 经 一 度 认 为 伊 凡 诺 夫 在 普 京 连 任 后 可 能 成 为 俄 罗 斯 总 统 , 而 作 为 普 京 的 第 三 任 期 , 是 不 符 合 宪 法 的 。
+of was once thought that Mr Ivanov might become president of Russia after Mr Putin's second term, as a third term for Mr Putin would have been unconstitutional.
+曾 经 一 度 认 为 伊 凡 诺 夫 在 普 京 连 任 后 可 能 成 为 俄 罗 斯 总 统 , 而 作 为 普 京 的 第 三 任 期 , 是 不 符 合 宪 法 的 。
+label: True
+
+LCS-Wdiff:	0.625 True
+ED-Wdiff:	0.625 True
+Tf-idf-Wdiff:	0.7336420685542756 True
+BLEU-Wdiff:	0.5343636870384216 True
+弗 兰 基 · 迪 多 利 在 新 市 场 赢 得 了 3 0 0 0 名 优 胜 者
+Frankie Dettori reaches 3, 000 winners with victory at Newmarket on Predilection
+弗 兰 基 · 迪 多 利 在 德 比 比 赛 中 获 胜 , 夺 得 了 3 0 0 0 名 冠 军
+Frankie Dettori reaches 3, 000 winners with victory at Derby on Predilection
+弗 兰 基 · 迪 多 利 在 德 比 比 赛 中 获 胜 , 夺 得 了 3 0 0 0 名 冠 军
+label: False
+
+LCS-Wdiff:	0.8936170212765957 True
+ED-Wdiff:	0.8936170212765957 True
+Tf-idf-Wdiff:	0.9717277007410576 False
+BLEU-Wdiff:	0.890102207660675 False
+首 先 , 埃 尔 多 安 需 要 他 能 够 得 到 的 所 有 朋 友 , 因 为 他 上 个 月 在 一 次 失 败 的 政 变 中 几 乎 被 推 翻 了 政 权 。
+First and foremost, Erdogan needs all the friends he can get after he was nearly ousted from power last month in a failed coup.
+最 重 要 的 是 , 埃 尔 多 安 需 要 他 能 够 得 到 的 所 有 朋 友 , 因 为 他 上 个 月 在 一 次 失 败 的 政 变 中 几 乎 被 推 翻 了 政 权 。
+to and foremost, Erdogan needs all the friends he can get after he was nearly ousted from power last month in a failed coup.
+最 重 要 的 是 , 埃 尔 多 安 需 要 他 能 够 得 到 的 所 有 朋 友 , 因 为 他 上 个 月 在 一 次 失 败 的 政 变 中 几 乎 被 推 翻 了 政 权 。
+label: True
+
+LCS-Wdiff:	0.9358974358974359 True
+ED-Wdiff:	0.9230769230769231 True
+Tf-idf-Wdiff:	0.9963493235020315 False
+BLEU-Wdiff:	0.9028459191322327 False
+在 克 里 姆 林 宫 网 站 上 引 用 的 对 普 京 的 讲 话 中 , 伊 万 诺 夫 说 : “ 2 0 1 2 年 初 , 在 一 次 谈 话 中 , 我 确 实 要 求 你 委 托 我 担 任 这 个 非 常 复 杂 的 职 位 , 你 甚 至 可 以 说 是 “ 麻 烦 ” 职 位 , 为 期 4 年 。
+In remarks to Mr Putin, quoted on the Kremlin website, Mr Ivanov said " it's true that in early 2012 I asked you, in a conversation, to entrust me with this very complicated post, even-you could say-troublesome post, for four years.
+在 克 里 姆 林 宫 网 站 上 引 用 的 对 普 京 的 讲 话 中 , 伊 万 诺 夫 说 : “ 2 0 1 2 年 初 , 我 确 实 在 一 次 谈 话 中 要 求 你 委 托 我 担 任 这 个 非 常 复 杂 的 职 位 , 你 甚 至 可 以 说 是 够 麻 烦 的 , 为 期 4 年 。
+In remarks to Mr Putin, quoted on the Kremlin website, Mr Ivanov said " It's true that in early 2012 I asked you, in a conversation, to entrust me with this very complicated post, even-you could say-troublesome post, for four years.
+在 克 里 姆 林 宫 网 站 上 引 用 的 对 普 京 的 讲 话 中 , 伊 万 诺 夫 说 : “ 2 0 1 2 年 初 , 我 确 实 在 一 次 谈 话 中 要 求 你 委 托 我 担 任 这 个 非 常 复 杂 的 职 位 , 你 甚 至 可 以 说 是 够 麻 烦 的 , 为 期 4 年 。
+label: False
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+我 很 高 兴 这 发 生 在 新 市 场 , 因 为 这 里 是 我 3 0 年 前 登 陆 的 地 方 。
+I'm very pleased for it to have happened at Newmarket because this is where I landed 30 years ago.
+我 很 高 兴 这 发 生 在 新 市 场 , 因 为 这 是 我 3 0 年 前 登 陆 的 地 方 。
+I'm very pleased for it to have happened at Newmarket because this this where I landed 30 years ago.
+我 很 高 兴 这 发 生 在 新 市 场 , 因 为 这 是 我 3 0 年 前 登 陆 的 地 方 。
+label: False
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+请 注 意 , 这 是 给 莫 斯 科 的 , 因 为 莫 斯 科 对 政 权 更 迭 有 着 深 层 的 恐 惧 。
+Mind you, that's a given for Moscow which has its own deep-seated fear of regime change.
+以 及 你 , 这 是 给 莫 斯 科 的 , 因 为 莫 斯 科 对 政 权 更 迭 有 着 深 层 的 恐 惧 。
+and you, that's a given for Moscow which has its own deep-seated fear of regime change.
+以 及 你 , 这 是 给 莫 斯 科 的 , 因 为 莫 斯 科 对 政 权 更 迭 有 着 深 层 的 恐 惧 。
+label: False
+
+LCS-Wdiff:	0.8484848484848485 True
+ED-Wdiff:	0.8484848484848485 True
+Tf-idf-Wdiff:	0.8739422914478895 True
+BLEU-Wdiff:	0.7929221391677856 True
+但 尽 管 对 摄 像 机 微 笑 , 这 里 几 乎 没 有 人 相 信 — — 特 别 是 在 议 会 选 举 之 前 。
+But despite the smiles for the cameras, few here are convinced-especially now, just before parliamentary elections.
+但 尽 管 对 摄 像 机 微 笑 , 这 里 几 乎 没 有 人 相 信 — — 特 别 是 在 国 会 奄 前 的 突 然 间 。
+But despite the smiles for the cameras, few here are convinced-especially suddenly, just before parliamentary elections.
+但 尽 管 对 摄 像 机 微 笑 , 这 里 几 乎 没 有 人 相 信 — — 特 别 是 在 国 会 奄 前 的 突 然 间 。
+label: True
+
+LCS-Wdiff:	0.9574468085106383 False
+ED-Wdiff:	0.9574468085106383 False
+Tf-idf-Wdiff:	0.9848039927203296 False
+BLEU-Wdiff:	0.9225041270256042 False
+英 国 医 学 协 会   (   B M A   )   的 初 级 医 生 委 员 会   (   J D C   )   要 求 其 全 体 理 事 会 从 九 月 初 开 始 支 持 更 多 的 产 业 行 动 .
+The Junior Doctors Committee ( JDC ) of the British Medical Association ( BMA ) is to ask its full council to back more industrial action from early September.
+英 国 医 学 会 ( B M A ) 的 初 级 医 生 委 员 会 ( J D C ) 要 求 其 全 体 理 事 会 从 九 月 初 开 始 支 持 更 多 的 工 业 行 动 。
+the Junior Doctors Committee ( JDC ) of the British Medical Association ( BMA ) is to ask its full council to back more industrial action from early September.
+英 国 医 学 会 ( B M A ) 的 初 级 医 生 委 员 会 ( J D C ) 要 求 其 全 体 理 事 会 从 九 月 初 开 始 支 持 更 多 的 工 业 行 动 。
+label: False
+
+LCS-Wdiff:	0.813953488372093 True
+ED-Wdiff:	0.7906976744186046 True
+Tf-idf-Wdiff:	0.773626009563864 True
+BLEU-Wdiff:	0.6927257180213928 True
+在 约 翰 · 戈 斯 登 的 训 练 下 , 他 在 当 地 的 田 径 比 赛 中 , 与 他 晚 上 的 第 二 个 获 胜 者 一 起 把 地 标 抬 高 了 。
+He brought up the landmark with his second winner of the night at his local track-on Predilection, trained by John Gosden.
+在 约 翰 · 戈 斯 登 的 训 练 下 , 他 在 当 地 的 田 径 专 辑 《 掠 夺 》 中 , 与 他 晚 上 的 第 二 名 获 奖 者 一 起 搭 建 了 地 标 。
+He set up the landmark with his second winner of the night at his local track-on Predilection, trained by John Gosden.
+在 约 翰 · 戈 斯 登 的 训 练 下 , 他 在 当 地 的 田 径 专 辑 《 掠 夺 》 中 , 与 他 晚 上 的 第 二 名 获 奖 者 一 起 搭 建 了 地 标 。
+label: True
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+普 京 在 回 到 总 统 任 期 前 就 当 上 了 总 理 , 仅 三 年 半 后 。
+Mr Putin became prime minister, before returning to the presidency just three-and-a-half years later.
+普 京 在 回 到 总 统 任 期 前 就 当 上 了 总 理 , 仅 三 年 半 后 。
+the Putin became prime minister, before returning to the presidency just three-and-a-half years later.
+普 京 在 回 到 总 统 任 期 前 就 当 上 了 总 理 , 仅 三 年 半 后 。
+label: False
+
+LCS-Wdiff:	0.6 True
+ED-Wdiff:	0.5714285714285714 True
+Tf-idf-Wdiff:	0.8070959890691705 True
+BLEU-Wdiff:	0.5004894733428955 True
+迪 托 里 之 前 曾 说 过 , 他 想 继 续 比 赛 , 至 少 要 到 5 0 岁 。
+And he may not be done for some time-Dettori has previously said he would like to carry on competing until the age of 50, at least.
+在 一 段 时 间 内 可 能 无 法 完 成 , 迪 托 里 之 前 曾 说 过 他 希 望 继 续 比 赛 , 至 少 直 到 5 0 岁 。
+And it may not be done for some time-Dettori has previously said he would like to carry on competing until the age of 50, at least.
+在 一 段 时 间 内 可 能 无 法 完 成 , 迪 托 里 之 前 曾 说 过 他 希 望 继 续 比 赛 , 至 少 直 到 5 0 岁 。
+label: True
+
+LCS-Wdiff:	0.9130434782608695 True
+ED-Wdiff:	0.9130434782608696 True
+Tf-idf-Wdiff:	0.9840372026895284 False
+BLEU-Wdiff:	0.8340614438056946 True
+据 该 行 首 席 执 行 官 称 , 该 品 牌 将 被 降 格 为 后 台 。
+The brand RBS is to be reduced to a back office role, according to the bank's chief executive.
+据 该 行 首 席 执 行 官 称 , 该 行 的 品 牌 R B S 将 被 降 格 为 后 台 。
+of brand RBS is to be reduced to a back office role, according to the bank's chief executive.
+据 该 行 首 席 执 行 官 称 , 该 行 的 品 牌 R B S 将 被 降 格 为 后 台 。
+label: True
+
+LCS-Wdiff:	0.9473684210526315 True
+ED-Wdiff:	0.9473684210526316 True
+Tf-idf-Wdiff:	0.9753577851666771 False
+BLEU-Wdiff:	0.8522456884384155 False
+作 为 幕 僚 长 , 他 是 这 个 国 家 最 有 势 力 的 人 之 一 。
+As chief of staff he was one of the most powerful men in the country.
+作 为 幕 僚 长 , 他 是 这 个 国 家 权 力 最 强 的 人 之 一 。
+As chief of staff he was one of the most power men in the country.
+作 为 幕 僚 长 , 他 是 这 个 国 家 权 力 最 强 的 人 之 一 。
+label: False
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+B M A 的 初 级 医 生 领 袖 J o h a n n   M a l a w a n a 博 士 在 投 票 否 决 了 B M A 建 议 的 经 谈 判 达 成 的 合 同 条 款 后 辞 职 。
+The BMA's junior doctor leader, Dr Johann Malawana, resigned following the vote to reject the negotiated terms of the contract, which the BMA had recommended.
+B M A 的 初 级 医 生 领 袖 J o h a n n   M a l a w a n a 博 士 在 投 票 否 决 了 B M A 建 议 的 经 谈 判 达 成 的 合 同 条 款 后 辞 职 。
+and BMA's junior doctor leader, Dr Johann Malawana, resigned following the vote to reject the negotiated terms of the contract, which the BMA had recommended.
+B M A 的 初 级 医 生 领 袖 J o h a n n   M a l a w a n a 博 士 在 投 票 否 决 了 B M A 建 议 的 经 谈 判 达 成 的 合 同 条 款 后 辞 职 。
+label: False
+
+LCS-Wdiff:	0.9152542372881356 True
+ED-Wdiff:	0.9152542372881356 True
+Tf-idf-Wdiff:	0.9473209469502216 True
+BLEU-Wdiff:	0.8593165874481201 False
+首 席 执 行 官 说 : “ 现 在 我 们 转 移 到 品 牌 银 行 的 时 机 已 经 成 熟 , 因 为 我 们 一 直 在 问 , 在 下 面 , 我 们 如 何 专 注 于 让 这 家 更 好 的 客 户 银 行 呢 ? ”
+" The time is right for us to move to the bank of brands, because underneath ( we've been asking ) how do we focus on making this a better bank for customers ? " said the chief executive.
+首 席 执 行 官 说 : “ 我 们 转 移 到 品 牌 银 行 的 时 机 是 正 确 的 , 因 为 我 们 一 直 在 问 , 在 下 面 , 我 们 是 如 何 专 注 于 让 这 家 更 好 的 客 户 银 行 的 呢 ? ”
+" The time was right for us to move to the bank of brands, because underneath ( we've been asking ) how do we focus on making this a better bank for customers ? " said the chief executive.
+首 席 执 行 官 说 : “ 我 们 转 移 到 品 牌 银 行 的 时 机 是 正 确 的 , 因 为 我 们 一 直 在 问 , 在 下 面 , 我 们 是 如 何 专 注 于 让 这 家 更 好 的 客 户 银 行 的 呢 ? ”
+label: True
+
+LCS-Wdiff:	0.9555555555555556 False
+ED-Wdiff:	0.9555555555555556 False
+Tf-idf-Wdiff:	0.9940520741247798 False
+BLEU-Wdiff:	0.954553484916687 False
+但 是 随 着 我 们 一 直 在 做 的 工 作 , 专 注 于 客 户 的 需 求 , 而 不 是 我 们 自 己 的 需 求 , 我 认 为 你 正 在 看 到 很 多 变 化 。
+But with the work we've been doing, focussing on the customers needs, not our own, I think you're seeing a lot of change.
+随 着 我 们 一 直 在 做 的 工 作 , 专 注 于 客 户 的 需 求 , 而 不 是 我 们 自 己 的 需 求 , 我 认 为 你 看 到 了 很 多 变 化 。
+and with the work we've been doing, focussing on the customers needs, not our own, I think you're seeing a lot of change.
+随 着 我 们 一 直 在 做 的 工 作 , 专 注 于 客 户 的 需 求 , 而 不 是 我 们 自 己 的 需 求 , 我 认 为 你 看 到 了 很 多 变 化 。
+label: False
+
+LCS-Wdiff:	0.8095238095238095 True
+ED-Wdiff:	0.8095238095238095 True
+Tf-idf-Wdiff:	0.9194921741904662 True
+BLEU-Wdiff:	0.7797687649726868 True
+俄 罗 斯 总 统 弗 拉 基 米 尔 ? 普 京 ( V l a d i m i r   P u t i n ) 出 乎 意 料 地 解 雇 了 他 的 幕 僚 长 谢 尔 盖 ? 伊 万 诺 夫 ( S e r g e i   I v a n o v ) 。
+Russian President Vladimir Putin has unexpectedly dismissed his chief of staff Sergei Ivanov.
+普 京 ( V l a d i m i r   P u t i n ) 出 乎 意 料 地 解 除 了 他 的 幕 僚 长 谢 尔 盖 · 伊 万 诺 夫 ( S e r g e i   I v a n o v ) 。
+of President Vladimir Putin has unexpectedly dismissed his chief of staff Sergei Ivanov.
+普 京 ( V l a d i m i r   P u t i n ) 出 乎 意 料 地 解 除 了 他 的 幕 僚 长 谢 尔 盖 · 伊 万 诺 夫 ( S e r g e i   I v a n o v ) 。
+label: True
+
+LCS-Wdiff:	0.7586206896551724 True
+ED-Wdiff:	0.7586206896551724 True
+Tf-idf-Wdiff:	0.7761817964715718 True
+BLEU-Wdiff:	0.6866540908813477 True
+自 8 年 前 几 乎 崩 溃 以 来 , 它 已 经 从 他 们 那 里 撤 离 , 不 得 不 得 到 纾 困 。
+It has retreated from them since it nearly collapsed eight years ago and had to be bailed out.
+自 8 年 前 几 乎 崩 溃 以 来 , 政 府 就 已 经 摆 脱 了 这 种 困 境 , 不 得 不 得 到 纾 困 。
+It has moved from them since it nearly collapsed eight years ago and had to be bailed out.
+自 8 年 前 几 乎 崩 溃 以 来 , 政 府 就 已 经 摆 脱 了 这 种 困 境 , 不 得 不 得 到 纾 困 。
+label: True
+
+LCS-Wdiff:	0.9736842105263158 False
+ED-Wdiff:	0.9736842105263158 False
+Tf-idf-Wdiff:	0.9990710021182067 False
+BLEU-Wdiff:	0.930648922920227 False
+这 场 争 论 已 导 致 年 青 医 生 参 加 今 年 的 六 场 罢 工 , 包 括 国 民 保 健 制 度 历 史 上 的 首 次 全 面 罢 工 。
+The dispute has led to junior doctors taking part in six strikes this year, including the first all-out stoppages in the history of the NHS.
+这 场 冲 突 导 致 年 青 医 生 参 加 了 今 年 的 六 场 罢 工 , 包 括 国 民 保 健 制 度 历 史 上 的 首 次 全 面 罢 工 。
+The conflict has led to junior doctors taking part in six strikes this year, including the first all-out stoppages in the history of the NHS.
+这 场 冲 突 导 致 年 青 医 生 参 加 了 今 年 的 六 场 罢 工 , 包 括 国 民 保 健 制 度 历 史 上 的 首 次 全 面 罢 工 。
+label: False
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+他 还 承 诺 , 与 俄 罗 斯 的 关 系 不 仅 会 回 到 危 机 前 的 水 平 , 而 且 会 更 高 。
+He also pledged that relations with Russia would return not just to their pre-crisis level, but even higher.
+他 还 承 诺 , 与 俄 罗 斯 的 关 系 不 仅 会 回 到 危 机 前 的 水 平 , 而 且 会 更 高 。
+He also promised that relations with Russia would return not just to their pre-crisis level, but even higher.
+他 还 承 诺 , 与 俄 罗 斯 的 关 系 不 仅 会 回 到 危 机 前 的 水 平 , 而 且 会 更 高 。
+label: False
+
+LCS-Wdiff:	0.7142857142857143 True
+ED-Wdiff:	0.6571428571428571 True
+Tf-idf-Wdiff:	0.9282396833250967 True
+BLEU-Wdiff:	0.6129719018936157 True
+“ 由 于 其 他 一 切 事 情 都 与 世 界 不 协 调 , 他 就 是 那 颗 闪 闪 发 光 的 粗 糙 的 钻 石 , ” 他 说 。
+" With everything else that's going wrong with the world, he was that diamond in the rough that was shining bright every day, " he said.
+“ 在 世 界 上 其 他 所 有 事 情 上 , 他 都 是 那 颗 闪 闪 发 光 的 粗 糙 的 钻 石 , ” 他 说 。
+" In everything else that's going wrong with the world, he was that diamond in the rough that was shining bright every day, " he said.
+“ 在 世 界 上 其 他 所 有 事 情 上 , 他 都 是 那 颗 闪 闪 发 光 的 粗 糙 的 钻 石 , ” 他 说 。
+label: True
+
+LCS-Wdiff:	0.8723404255319149 True
+ED-Wdiff:	0.8723404255319149 True
+Tf-idf-Wdiff:	0.9598755278411493 False
+BLEU-Wdiff:	0.8680461049079895 False
+事 实 上 , 这 场 危 机 的 起 因 是 他 在 开 场 白 中 首 先 提 到 的 事 情 : 土 耳 其 在 叙 利 亚 边 境 击 落 了 一 架 俄 罗 斯 战 斗 机 。
+In fact, the cause of the crisis was the first thing he mentioned in his opening comments : Turkey's shooting down of a Russian fighter plane on the Syrian border.
+危 机 的 起 因 是 他 在 开 场 白 中 首 先 提 到 的 事 情 : 土 耳 其 在 叙 利 亚 边 境 击 落 了 一 架 俄 罗 斯 战 斗 机 。
+In to, the cause of the crisis was the first thing he mentioned in his opening comments : Turkey's shooting down of a Russian fighter plane on the Syrian border.
+危 机 的 起 因 是 他 在 开 场 白 中 首 先 提 到 的 事 情 : 土 耳 其 在 叙 利 亚 边 境 击 落 了 一 架 俄 罗 斯 战 斗 机 。
+label: False
+
+LCS-Wdiff:	0.9387755102040817 True
+ED-Wdiff:	0.9387755102040817 True
+Tf-idf-Wdiff:	0.9888606530833545 False
+BLEU-Wdiff:	0.9043437242507935 False
+1 9 9 0 年 代 末 期 , 当 普 京 先 生 担 任 取 代 克 格 勃 的 联 邦 安 全 局 ( F S B   ) 局 长 时 , 伊 凡 诺 夫 先 生 被 任 命 为 他 的 副 手 。
+In the late 1990s, when Mr Putin was head of the Federal Security Service ( FSB ), which replaced the KGB, Mr Ivanov was appointed as his deputy.
+上 世 纪 9 0 年 代 末 , 当 普 京 先 生 担 任 取 代 克 格 勃 的 联 邦 安 全 局 ( F S B ) 局 长 时 , 伊 凡 诺 夫 被 任 命 为 他 的 副 手 。
+in the late 1990s, when Mr Putin was head of the Federal Security Service ( FSB ), which replaced the KGB, Mr Ivanov was appointed as his deputy.
+上 世 纪 9 0 年 代 末 , 当 普 京 先 生 担 任 取 代 克 格 勃 的 联 邦 安 全 局 ( F S B ) 局 长 时 , 伊 凡 诺 夫 被 任 命 为 他 的 副 手 。
+label: False
+
+LCS-Wdiff:	0.9411764705882353 True
+ED-Wdiff:	0.9411764705882353 True
+Tf-idf-Wdiff:	0.9942538665972548 False
+BLEU-Wdiff:	0.9128924012184143 False
+1 9 7 2 年 出 生 于 爱 沙 尼 亚 首 都 塔 林 , 毕 业 于 著 名 的 莫 斯 科 国 立 国 际 关 系 学 院 ( M M I M O   ) , 在 东 京 大 使 馆 任 职 。
+Born in the Estonian capital Tallinn in 1972, he graduated from the prestigious Moscow State Institute of International Relations ( MGIMO ) and served in the Tokyo embassy.
+他 于 1 9 7 2 年 在 爱 沙 尼 亚 首 都 塔 林 毕 业 , 毕 业 于 著 名 的 莫 斯 科 国 立 国 际 关 系 学 院 ( M M I M O ) , 在 东 京 大 使 馆 任 职 。
+of in the Estonian capital Tallinn in 1972, he graduated from the prestigious Moscow State Institute of International Relations ( MGIMO ) and served in the Tokyo embassy.
+他 于 1 9 7 2 年 在 爱 沙 尼 亚 首 都 塔 林 毕 业 , 毕 业 于 著 名 的 莫 斯 科 国 立 国 际 关 系 学 院 ( M M I M O ) , 在 东 京 大 使 馆 任 职 。
+label: False
+
+LCS-Wdiff:	0.8461538461538461 True
+ED-Wdiff:	0.8148148148148149 True
+Tf-idf-Wdiff:	0.877637130600205 True
+BLEU-Wdiff:	0.6877638101577759 True
+当 普 京 上 台 执 政 时 , 他 把 伊 万 诺 夫 列 为 他 最 信 任 的 五 个 人 之 一 。
+When Mr Putin came to power, he named Mr Ivanov as one of the five people he trusted most.
+在 普 京 上 台 后 , 他 任 命 伊 万 诺 夫 先 生 为 他 最 信 任 的 五 个 人 之 一 。
+of Mr Putin came to power, he named Mr Ivanov as one of the five people he trusted most.
+在 普 京 上 台 后 , 他 任 命 伊 万 诺 夫 先 生 为 他 最 信 任 的 五 个 人 之 一 。
+label: False
+
+LCS-Wdiff:	0.875 True
+ED-Wdiff:	0.8375 True
+Tf-idf-Wdiff:	0.971175733611574 False
+BLEU-Wdiff:	0.838863730430603 True
+在 克 里 姆 林 宫 网 站 上 引 用 的 对 普 京 的 讲 话 中 , 伊 万 诺 夫 说 : “ 2 0 1 2 年 初 , 在 一 次 谈 话 中 , 我 确 实 要 求 你 委 托 我 担 任 这 个 非 常 复 杂 的 职 位 , 你 甚 至 可 以 说 是 “ 麻 烦 ” 职 位 , 为 期 4 年 。
+In remarks to Mr Putin, quoted on the Kremlin website, Mr Ivanov said " it's true that in early 2012 I asked you, in a conversation, to entrust me with this very complicated post, even-you could say-troublesome post, for four years.
+在 克 里 姆 林 宫 网 站 上 引 用 的 对 普 京 的 讲 话 中 , 一 位 伊 万 诺 夫 说 : “ 2 0 1 2 年 初 , 在 一 次 谈 话 中 , 我 确 实 要 求 你 委 托 我 担 任 这 个 非 常 复 杂 的 职 位 , 甚 至 你 也 可 以 说 4 年 的 麻 烦 事 。
+In remarks to Mr Putin, quoted on the Kremlin website, a Ivanov said " it's true that in early 2012 I asked you, in a conversation, to entrust me with this very complicated post, even-you could say-troublesome post, for four years.
+在 克 里 姆 林 宫 网 站 上 引 用 的 对 普 京 的 讲 话 中 , 一 位 伊 万 诺 夫 说 : “ 2 0 1 2 年 初 , 在 一 次 谈 话 中 , 我 确 实 要 求 你 委 托 我 担 任 这 个 非 常 复 杂 的 职 位 , 甚 至 你 也 可 以 说 4 年 的 麻 烦 事 。
+label: False
+
+LCS-Wdiff:	0.8837209302325582 True
+ED-Wdiff:	0.8837209302325582 True
+Tf-idf-Wdiff:	0.9161485517931182 True
+BLEU-Wdiff:	0.7674395442008972 True
+在 约 翰 · 戈 斯 登 的 训 练 下 , 他 在 当 地 的 田 径 比 赛 中 , 与 他 晚 上 的 第 二 个 获 胜 者 一 起 把 地 标 抬 高 了 。
+He brought up the landmark with his second winner of the night at his local track-on Predilection, trained by John Gosden.
+在 约 翰 · 戈 斯 登 的 训 练 下 , 他 在 当 地 的 田 径 比 赛 中 , 与 他 晚 上 的 第 二 名 获 奖 者 一 起 从 地 标 上 跳 了 下 来 。
+He brought off the landmark with his second winner of the night at his local track-on Predilection, trained by John Gosden.
+在 约 翰 · 戈 斯 登 的 训 练 下 , 他 在 当 地 的 田 径 比 赛 中 , 与 他 晚 上 的 第 二 名 获 奖 者 一 起 从 地 标 上 跳 了 下 来 。
+label: True
+
+LCS-Wdiff:	0.75 True
+ED-Wdiff:	0.75 True
+Tf-idf-Wdiff:	0.8339469220881329 True
+BLEU-Wdiff:	0.7343370914459229 True
+但 是 现 在 ,   人 们 认 为 让 更 多 本 土 品 牌 上 台 是 正 确 的 .
+But now, it has been judged right to let more national brands come to the fore.
+到 目 前 为 止 , 人 们 一 直 认 为 让 更 多 本 土 品 牌 上 台 是 正 确 的 。
+to now, it has been judged right to let more national brands come to the fore.
+到 目 前 为 止 , 人 们 一 直 认 为 让 更 多 本 土 品 牌 上 台 是 正 确 的 。
+label: False
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+毕 竟 , 这 次 会 面 只 是 因 为 普 京 得 到 了 他 所 要 求 的 埃 尔 多 安 总 统 的 道 歉 。
+After all, this meeting only happened because Mr Putin got the apology he demanded from President Erdogan.
+这 次 会 面 只 是 因 为 普 京 得 到 了 他 所 要 求 的 埃 尔 多 安 总 统 的 道 歉 。
+and all, this meeting only happened because Mr Putin got the apology he demanded from President Erdogan.
+这 次 会 面 只 是 因 为 普 京 得 到 了 他 所 要 求 的 埃 尔 多 安 总 统 的 道 歉 。
+label: False
+
+LCS-Wdiff:	0.868421052631579 True
+ED-Wdiff:	0.868421052631579 True
+Tf-idf-Wdiff:	0.9529012939229828 False
+BLEU-Wdiff:	0.8276180624961853 True
+路 易 斯 · 加 利 西 亚 说 , 弗 兰 克 起 初 住 在 旅 舍 里 ,   但 最 近 ,   “   事 情 最 终 对 他 来 说 还 不 错 .   ”
+Louis Galicia said Frank initially stayed in hostels, but recently, " Things were finally going well for him. "
+路 易 斯 · 加 利 西 亚 说 , 弗 兰 克 最 初 住 在 旅 舍 里 , 但 最 近 ,   “   事 情 最 终 对 他 有 利 .   ”
+Louis Galicia said Frank initially stayed in hostels, but recently, " things were finally going well for him. "
+路 易 斯 · 加 利 西 亚 说 , 弗 兰 克 最 初 住 在 旅 舍 里 , 但 最 近 ,   “   事 情 最 终 对 他 有 利 .   ”
+label: False
+
+LCS-Wdiff:	0.6875 True
+ED-Wdiff:	0.65625 True
+Tf-idf-Wdiff:	0.8337307417259505 True
+BLEU-Wdiff:	0.592818021774292 True
+年 青 医 生 和 医 科 学 生 在 7 月 投 票 否 决 了 与 B M A 达 成 协 议 的 合 同 协 议 。
+Junior doctors and medical students voted in July to reject a contract deal agreed with the BMA.
+7 月 , 初 级 医 生 和 医 科 学 生 投 票 否 决 了 与 B M A 达 成 的 一 项 研 究 金 协 议 。
+Junior doctors and medical students voted in July to reject a fellowship deal agreed with the BMA.
+7 月 , 初 级 医 生 和 医 科 学 生 投 票 否 决 了 与 B M A 达 成 的 一 项 研 究 金 协 议 。
+label: False
+
+LCS-Wdiff:	0.8387096774193549 True
+ED-Wdiff:	0.8387096774193549 True
+Tf-idf-Wdiff:	0.970811661406471 False
+BLEU-Wdiff:	0.7774502038955688 True
+土 耳 其 总 统 故 意 避 免 回 答 关 于 双 方 分 歧 的 问 题 , 而 普 京 则 选 择 强 调 这 些 分 歧 。
+Turkey's president deliberately avoided answering a question on their differences, while Mr Putin chose to underline them.
+普 京 总 统 故 意 避 免 回 答 关 于 他 们 分 歧 的 问 题 , 而 选 择 强 调 这 些 分 歧 。
+the's president deliberately avoided answering a question on their differences, while Mr Putin chose to underline them.
+普 京 总 统 故 意 避 免 回 答 关 于 他 们 分 歧 的 问 题 , 而 选 择 强 调 这 些 分 歧 。
+label: True
+
+LCS-Wdiff:	0.8666666666666667 True
+ED-Wdiff:	0.7555555555555555 True
+Tf-idf-Wdiff:	0.9011137651154614 True
+BLEU-Wdiff:	0.6944964528083801 True
+包 括 他 1 9 9 6 年 著 名 的 “ 七 星 号 ” 阿 斯 科 特 在 内 的 大 批 大 赛 冠 军 , 但 他 也 幸 免 于 难 , 并 服 下 了 毒 品 禁 令 。
+Stacks of big-race winners, including his famous 1996'Magnificent Seven'at Ascot, but he also survived a plane crash and served a drugs ban.
+包 括 他 1 9 9 6 年 著 名 的 “ 7 号 阿 斯 科 特 号 巨 星 ” 在 内 的 大 赛 冠 军 的 游 戏 , 但 他 也 幸 免 于 难 , 服 下 了 禁 药 令 。
+theacks of big-race winners, including his famous 1996'Magnificent Seven'at Ascot, but he also survived a plane crash and served a drugs ban.
+包 括 他 1 9 9 6 年 著 名 的 “ 7 号 阿 斯 科 特 号 巨 星 ” 在 内 的 大 赛 冠 军 的 游 戏 , 但 他 也 幸 免 于 难 , 服 下 了 禁 药 令 。
+label: True
+
+LCS-Wdiff:	0.4 True
+ED-Wdiff:	0.4 True
+Tf-idf-Wdiff:	0.5071480336597263 True
+BLEU-Wdiff:	0.26708680391311646 True
+此 举 使 莫 斯 科 神 秘 化 。
+This is a move that has mystified Moscow.
+这 是 华 盛 顿 神 秘 化 的 举 动 。
+This is a move that has mystified Washington.
+这 是 华 盛 顿 神 秘 化 的 举 动 。
+label: True
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+俄 罗 斯 普 京 的 幕 僚 长 谢 尔 盖 · 伊 万 诺 夫
+Russia's Putin sacks chief of staff Sergei Ivanov
+俄 罗 斯 普 京 军 团 队 长 谢 尔 盖 · 伊 万 诺 夫
+Russia's Putin sacks chief of corps Sergei Ivanov
+俄 罗 斯 普 京 军 团 队 长 谢 尔 盖 · 伊 万 诺 夫
+label: False
+
+LCS-Wdiff:	0.9565217391304348 False
+ED-Wdiff:	0.9565217391304348 False
+Tf-idf-Wdiff:	0.9930279377534403 False
+BLEU-Wdiff:	0.8807734847068787 False
+多 年 来 , 伊 凡 诺 夫 一 直 是 普 京 所 信 赖 的 内 圈 的 一 部 分 。
+Mr Ivanov has been part of Mr Putin's trusted inner circle for many years.
+多 年 来 , 伊 凡 诺 夫 一 直 是 普 京 信 任 的 内 圈 的 一 部 分 。
+the Ivanov has been part of Mr Putin's trusted inner circle for many years.
+多 年 来 , 伊 凡 诺 夫 一 直 是 普 京 信 任 的 内 圈 的 一 部 分 。
+label: False
+
+LCS-Wdiff:	0.8 True
+ED-Wdiff:	0.7 True
+Tf-idf-Wdiff:	0.9063757371916699 True
+BLEU-Wdiff:	0.7571190595626831 True
+在 I n v e r n e s s - s h i r e 的 一 次 客 户 和 员 工 参 观 中 , 麦 凯 恩 接 受 了 采 访 。
+Mr McEwan was interviewed during a tour of customers and staff in Inverness-shire.
+在 M c E w a n , 在 I n v e r n e s s - s h i r e 的 一 次 顾 客 和 员 工 参 观 中 接 受 了 采 访 。
+in McEwan was interviewed during a tour of customers and staff in Inverness-shire.
+在 M c E w a n , 在 I n v e r n e s s - s h i r e 的 一 次 顾 客 和 员 工 参 观 中 接 受 了 采 访 。
+label: True
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+在 英 格 兰 和 威 尔 士 , 所 有 苏 格 兰 皇 家 银 行 的 参 股 人 , 除 总 部 和 证 券 交 易 所 上 市 外 , 都 将 改 为 纳 特 韦 斯 特 ( N a t W e s t ) 。
+In England and Wales, all RBS references, outside head office and the stock exchange listing, will be changed to NatWest.
+在 英 格 兰 和 威 尔 士 , 所 有 苏 格 兰 皇 家 银 行 的 参 股 人 , 除 总 部 和 证 券 交 易 所 上 市 外 , 都 将 改 为 纳 特 韦 斯 特 ( N a t W e s t ) 。
+in England and Wales, all RBS references, outside head office and the stock exchange listing, will be changed to NatWest.
+在 英 格 兰 和 威 尔 士 , 所 有 苏 格 兰 皇 家 银 行 的 参 股 人 , 除 总 部 和 证 券 交 易 所 上 市 外 , 都 将 改 为 纳 特 韦 斯 特 ( N a t W e s t ) 。
+label: False
+
+LCS-Wdiff:	0.9166666666666666 True
+ED-Wdiff:	0.9166666666666666 True
+Tf-idf-Wdiff:	0.9578461781592889 False
+BLEU-Wdiff:	0.8882284164428711 False
+首 席 执 行 官 说 : “ 现 在 我 们 转 移 到 品 牌 银 行 的 时 机 已 经 成 熟 , 因 为 我 们 一 直 在 问 , 在 下 面 , 我 们 如 何 专 注 于 让 这 家 更 好 的 客 户 银 行 呢 ? ”
+" The time is right for us to move to the bank of brands, because underneath ( we've been asking ) how do we focus on making this a better bank for customers ? " said the chief executive.
+首 席 执 行 官 说 : “ 现 在 是 我 们 转 移 到 品 牌 银 行 的 时 候 , 因 为 我 们 一 直 在 问 , 在 下 面 , 我 们 如 何 专 注 于 让 这 家 更 好 的 客 户 银 行 呢 ? ”
+" the time is right for us to move to the bank of brands, because underneath ( we've been asking ) how do we focus on making this a better bank for customers ? " said the chief executive.
+首 席 执 行 官 说 : “ 现 在 是 我 们 转 移 到 品 牌 银 行 的 时 候 , 因 为 我 们 一 直 在 问 , 在 下 面 , 我 们 如 何 专 注 于 让 这 家 更 好 的 客 户 银 行 呢 ? ”
+label: False
+
+LCS-Wdiff:	0.5833333333333334 True
+ED-Wdiff:	0.5416666666666667 True
+Tf-idf-Wdiff:	0.6002116218330343 True
+BLEU-Wdiff:	0.47944512963294983 True
+莱 斯 特 · 皮 戈 特 , 9 次 得 分 手 , 4 次 , 4 9 3 次 生 涯 获 奖
+Lester Piggott, nine-time Derby winner, 4, 493 career wins
+莱 斯 特 · 皮 戈 特 , 九 届 德 比 冠 军 , 4 , 4 9 3 人
+Lester Piggott, nine-time Derby winners, 4, 493 career wins
+莱 斯 特 · 皮 戈 特 , 九 届 德 比 冠 军 , 4 , 4 9 3 人
+label: True
+
+LCS-Wdiff:	0.9565217391304348 False
+ED-Wdiff:	0.9565217391304348 False
+Tf-idf-Wdiff:	0.9817035656759568 False
+BLEU-Wdiff:	0.8867420554161072 False
+因 此 , 在 这 座 光 辉 的 海 边 宫 殿 的 峰 会 上 , 俄 罗 斯 和 土 耳 其 展 示 了 一 位 分 析 师 对 我 描 述 的 “ 不 正 当 联 盟 ” : 这 两 个 国 家 感 觉 被 西 方 抛 弃 和 虐 待 , 并 加 入 其 中 。
+So the summit at this glitzy, seaside palace allowed Russia and Turkey to present what one analyst described to me as an " alliance of misfits " : two countries that feel rejected and mistreated by the West, joining forces.
+因 此 , 我 们 在 这 个 光 辉 的 海 边 宫 殿 的 峰 会 上 , 让 俄 罗 斯 和 土 耳 其 展 示 了 一 位 分 析 师 对 我 描 述 的 “ 不 正 当 联 盟 ” : 这 两 个 国 家 感 到 被 西 方 抛 弃 和 虐 待 , 并 加 入 其 中 。
+So our summit at this glitzy, seaside palace allowed Russia and Turkey to present what one analyst described to me as an " alliance of misfits " : two countries that feel rejected and mistreated by the West, joining forces.
+因 此 , 我 们 在 这 个 光 辉 的 海 边 宫 殿 的 峰 会 上 , 让 俄 罗 斯 和 土 耳 其 展 示 了 一 位 分 析 师 对 我 描 述 的 “ 不 正 当 联 盟 ” : 这 两 个 国 家 感 到 被 西 方 抛 弃 和 虐 待 , 并 加 入 其 中 。
+label: False
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+罗 斯 . 麦 凯 恩 ( R o s s   M c E w a n ) 告 诉 英 国 广 播 公 司 ( B B C ) , 苏 格 兰 皇 家 银 行 ( B B C ) 的 品 牌 与 该 行 的 全 球 雄 心 有 关 。
+Ross McEwan told BBC Scotland that the RBS brand was associated with the bank's global ambitions.
+罗 斯 . 麦 凯 恩 ( R o s s   M c E w a n ) 告 诉 英 国 广 播 公 司 ( B B C ) , 苏 格 兰 皇 家 银 行 ( B B C ) 的 品 牌 与 该 行 的 全 球 雄 心 一 致 。
+Ross McEwan told BBC Scotland that the RBS brand was aligned with the bank's global ambitions.
+罗 斯 . 麦 凯 恩 ( R o s s   M c E w a n ) 告 诉 英 国 广 播 公 司 ( B B C ) , 苏 格 兰 皇 家 银 行 ( B B C ) 的 品 牌 与 该 行 的 全 球 雄 心 一 致 。
+label: False
+
+LCS-Wdiff:	0.6111111111111112 True
+ED-Wdiff:	0.2222222222222222 True
+Tf-idf-Wdiff:	0.7014242281124566 True
+BLEU-Wdiff:	0.5381607413291931 True
+伊 万 诺 夫 先 生 于 2 0 1 1 年 1 2 月 上 任 。
+Mr Ivanov took up the post in December 2011.
+2 0 1 1 年 1 2 月 , 杰 尼 索 夫 先 生 上 任 。
+Mr Denisov took up the post in December 2011.
+2 0 1 1 年 1 2 月 , 杰 尼 索 夫 先 生 上 任 。
+label: False
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	0.9999999999999999 False
+BLEU-Wdiff:	1.0 False
+一 位 2 8 岁 的 厨 师 最 近 搬 到 了 旧 金 山 , 这 星 期 被 发 现 死 在 一 家 当 地 商 场 的 楼 梯 井 里 。
+A 28-year-old chef who had recently moved to San Francisco was found dead in the stairwell of a local mall this week.
+一 位 3 4 岁 的 厨 师 最 近 搬 到 了 旧 金 山 , 这 星 期 被 发 现 死 在 一 家 当 地 商 场 的 楼 梯 井 里 。
+A 34-year-old chef who had recently moved to San Francisco was found dead in the stairwell of a local mall this week.
+一 位 3 4 岁 的 厨 师 最 近 搬 到 了 旧 金 山 , 这 星 期 被 发 现 死 在 一 家 当 地 商 场 的 楼 梯 井 里 。
+label: False
+
+LCS-Wdiff:	0.9090909090909091 True
+ED-Wdiff:	0.9090909090909091 True
+Tf-idf-Wdiff:	0.9956222428677091 False
+BLEU-Wdiff:	0.893153965473175 False
+莫 斯 科 当 时 的 反 应 是 愤 怒 的 。
+Moscow's reaction at the time was furious.
+莫 斯 科 对 会 议 的 反 应 是 愤 怒 的 .
+Moscow's reaction at the conference was furious.
+莫 斯 科 对 会 议 的 反 应 是 愤 怒 的 .
+label: False
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+在 英 格 兰 和 威 尔 士 , 所 有 苏 格 兰 皇 家 银 行 的 参 股 人 , 除 总 部 和 证 券 交 易 所 上 市 外 , 都 将 改 为 纳 特 韦 斯 特 ( N a t W e s t ) 。
+In England and Wales, all RBS references, outside head office and the stock exchange listing, will be changed to NatWest.
+在 英 国 和 威 尔 士 , 所 有 苏 格 兰 皇 家 银 行 的 参 股 人 , 除 总 部 和 证 券 交 易 所 上 市 外 , 都 将 改 为 纳 特 韦 斯 特 ( N a t W e s t ) 。
+In English and Wales, all RBS references, outside head office and the stock exchange listing, will be changed to NatWest.
+在 英 国 和 威 尔 士 , 所 有 苏 格 兰 皇 家 银 行 的 参 股 人 , 除 总 部 和 证 券 交 易 所 上 市 外 , 都 将 改 为 纳 特 韦 斯 特 ( N a t W e s t ) 。
+label: False
+
+LCS-Wdiff:	0.5833333333333334 True
+ED-Wdiff:	0.5555555555555556 True
+Tf-idf-Wdiff:	0.8025999058145975 True
+BLEU-Wdiff:	0.48637697100639343 True
+迪 托 里 之 前 曾 说 过 , 他 想 继 续 比 赛 , 至 少 要 到 5 0 岁 。
+And he may not be done for some time-Dettori has previously said he would like to carry on competing until the age of 50, at least.
+这 在 一 段 时 间 内 可 能 无 法 完 成 , 迪 托 里 之 前 曾 说 过 他 希 望 继 续 比 赛 , 至 少 直 到 5 0 岁 。
+And this may not be done for some time-Dettori has previously said he would like to carry on competing until the age of 50, at least.
+这 在 一 段 时 间 内 可 能 无 法 完 成 , 迪 托 里 之 前 曾 说 过 他 希 望 继 续 比 赛 , 至 少 直 到 5 0 岁 。
+label: True
+
+LCS-Wdiff:	0.4166666666666667 True
+ED-Wdiff:	0.41666666666666663 True
+Tf-idf-Wdiff:	0.6682380869855794 True
+BLEU-Wdiff:	0.341842919588089 True
+苏 格 兰 皇 家 银 行 ( R o y a l   B a n k   o f   S c o t l a n d ) 将 在 苏 格 兰 境 外 消 失 。
+Royal Bank of Scotland will disappear for customers outside Scotland.
+苏 格 兰 皇 家 银 行 将 在 苏 格 兰 消 失 。
+Royal Bank of Scotland will disappear for customers in Scotland.
+苏 格 兰 皇 家 银 行 将 在 苏 格 兰 消 失 。
+label: False
+
+LCS-Wdiff:	0.5714285714285714 True
+ED-Wdiff:	0.23529411764705888 True
+Tf-idf-Wdiff:	0.9057805013924594 True
+BLEU-Wdiff:	0.7045833468437195 True
+他 曾 经 告 诉 B M A 会 员 , 这 笔 交 易 不 错 , 在 5 万 4 千 名 初 级 医 生 和 医 科 学 生 参 加 这 次 调 查 之 前 的 会 谈 中 , 应 该 接 受 。
+He had told BMA members the deal was a good one that should be accepted, during meetings ahead of the poll of 54, 000 junior doctors and medical students.
+在 5 万 4 千 名 初 级 医 生 和 医 科 学 生 参 加 这 次 调 查 之 前 , 我 曾 告 诉 B M A 会 员 , 这 笔 交 易 是 件 值 得 接 受 的 好 买 卖 。
+to had told BMA members the deal was a good one that should be accepted, during meetings ahead of the poll of 54, 000 junior doctors and medical students.
+在 5 万 4 千 名 初 级 医 生 和 医 科 学 生 参 加 这 次 调 查 之 前 , 我 曾 告 诉 B M A 会 员 , 这 笔 交 易 是 件 值 得 接 受 的 好 买 卖 。
+label: False
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+除 此 之 外 , 普 京 还 长 期 对 加 入 欧 盟 的 谈 判 步 履 不 满 , 他 渴 望 利 用 伊 朗 的 寒 冷 情 绪 , 削 弱 土 耳 其 与 西 方 的 关 系 。
+Add to that its long-standing grudge at the snail's pace of talks to join the EU and step in Mr Putin-who is keen to capitalise on the chill and chip away at Turkey's ties with the West.
+除 此 之 外 , 普 京 还 长 期 对 加 入 欧 盟 的 谈 判 步 伐 感 到 不 满 , 他 渴 望 利 用 伊 朗 的 寒 冷 情 绪 , 削 弱 土 耳 其 与 西 方 的 关 系 。
+Add to that a long-standing grudge at the snail's pace of talks to join the EU and step in Mr Putin-who is keen to capitalise on the chill and chip away at Turkey's ties with the West.
+除 此 之 外 , 普 京 还 长 期 对 加 入 欧 盟 的 谈 判 步 伐 感 到 不 满 , 他 渴 望 利 用 伊 朗 的 寒 冷 情 绪 , 削 弱 土 耳 其 与 西 方 的 关 系 。
+label: False
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+除 此 之 外 , 普 京 还 长 期 对 加 入 欧 盟 的 谈 判 步 履 不 满 , 他 渴 望 利 用 伊 朗 的 寒 冷 情 绪 , 削 弱 土 耳 其 与 西 方 的 关 系 。
+Add to that its long-standing grudge at the snail's pace of talks to join the EU and step in Mr Putin-who is keen to capitalise on the chill and chip away at Turkey's ties with the West.
+除 此 之 外 , 普 京 还 长 期 对 加 入 欧 盟 的 谈 判 步 伐 感 到 不 满 , 他 渴 望 利 用 伊 朗 的 寒 冷 情 绪 , 削 弱 土 耳 其 与 西 方 的 关 系 。
+Add to it its long-standing grudge at the snail's pace of talks to join the EU and step in Mr Putin-who is keen to capitalise on the chill and chip away at Turkey's ties with the West.
+除 此 之 外 , 普 京 还 长 期 对 加 入 欧 盟 的 谈 判 步 伐 感 到 不 满 , 他 渴 望 利 用 伊 朗 的 寒 冷 情 绪 , 削 弱 土 耳 其 与 西 方 的 关 系 。
+label: False
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+毕 竟 , 这 次 会 面 只 是 因 为 普 京 得 到 了 他 所 要 求 的 埃 尔 多 安 总 统 的 道 歉 。
+After all, this meeting only happened because Mr Putin got the apology he demanded from President Erdogan.
+此 后 , 这 次 会 面 只 是 因 为 普 京 得 到 了 他 所 要 求 的 埃 尔 多 安 总 统 的 道 歉 。
+After what, this meeting only happened because Mr Putin got the apology he demanded from President Erdogan.
+此 后 , 这 次 会 面 只 是 因 为 普 京 得 到 了 他 所 要 求 的 埃 尔 多 安 总 统 的 道 歉 。
+label: False
+
+LCS-Wdiff:	0.7142857142857143 True
+ED-Wdiff:	0.4897959183673469 True
+Tf-idf-Wdiff:	0.9687054798752726 False
+BLEU-Wdiff:	0.7427657842636108 True
+但 是 , 当 弗 拉 基 米 尔 · 普 京 在 圣 彼 得 堡 宫 殿 的 镀 金 大 厅 迎 接 他 的 土 耳 其 对 手 时 , 我 的 印 象 是 安 卡 拉 最 希 望 这 种 和 解 。
+But, as Vladimir Putin greeted his Turkish counterpart in the gilded hall of a St. Petersburg palace, I got the distinct impression that Ankara wants this reconciliation the most.
+在 圣 彼 得 堡 宫 殿 的 镀 金 大 厅 里 , 弗 拉 基 米 尔 · 普 京 迎 接 土 耳 其 的 对 应 者 时 , 我 的 印 象 是 安 卡 拉 最 希 望 这 次 和 解 。
+in, as Vladimir Putin greeted his Turkish counterpart in the gilded hall of a St. Petersburg palace, I got the distinct impression that Ankara wants this reconciliation the most.
+在 圣 彼 得 堡 宫 殿 的 镀 金 大 厅 里 , 弗 拉 基 米 尔 · 普 京 迎 接 土 耳 其 的 对 应 者 时 , 我 的 印 象 是 安 卡 拉 最 希 望 这 次 和 解 。
+label: False
+
+LCS-Wdiff:	0.9090909090909091 True
+ED-Wdiff:	0.8636363636363636 True
+Tf-idf-Wdiff:	0.9866018822003921 False
+BLEU-Wdiff:	0.8436553478240967 True
+但 是 随 着 我 们 一 直 在 做 的 工 作 , 专 注 于 客 户 的 需 求 , 而 不 是 我 们 自 己 的 需 求 , 我 认 为 你 正 在 看 到 很 多 变 化 。
+But with the work we've been doing, focussing on the customers needs, not our own, I think you're seeing a lot of change.
+但 是 在 工 作 上 我 们 一 直 在 做 , 专 注 于 客 户 的 需 求 , 而 不 是 我 们 自 己 的 需 求 , 我 认 为 你 看 到 了 很 多 变 化 。
+But with in work we've been doing, focussing on the customers needs, not our own, I think you're seeing a lot of change.
+但 是 在 工 作 上 我 们 一 直 在 做 , 专 注 于 客 户 的 需 求 , 而 不 是 我 们 自 己 的 需 求 , 我 认 为 你 看 到 了 很 多 变 化 。
+label: False
+
+LCS-Wdiff:	0.825 True
+ED-Wdiff:	0.825 True
+Tf-idf-Wdiff:	0.8687149163676705 True
+BLEU-Wdiff:	0.7773773074150085 True
+任 何 人 如 果 知 道 情 况 , 请 致 电 S F P D T i p L i n e , 电 话 为 4 1 5 - 5 7 5 - 4 4 4 4 。
+Anyone with information is asked to call the SFPD Tip Line at 415-575-4444.
+任 何 人 如 果 知 道 情 况 , 请 致 电 S F P D 提 示 线 , 电 话 为 4 1 0 - 5 7 5 - 4 4 4 4 。
+Anyone with information is asked to call the SFPD Tip Line at 410-575-4444.
+任 何 人 如 果 知 道 情 况 , 请 致 电 S F P D 提 示 线 , 电 话 为 4 1 0 - 5 7 5 - 4 4 4 4 。
+label: True
+
+LCS-Wdiff:	0.8518518518518519 True
+ED-Wdiff:	0.8518518518518519 True
+Tf-idf-Wdiff:	0.9646238090271408 False
+BLEU-Wdiff:	0.8443664312362671 True
+在 此 期 间 ,   品 牌 策 略 师 利 用 R B S 来 保 护 其 他 消 费 者 金 融 品 牌 .
+During that time, brand strategists have used'RBS'to protect other consumer finance brands.
+那 时 ,   品 牌 策 略 师 们 用 R B S 来 保 护 其 他 消 费 者 金 融 品 牌 .
+and that time, brand strategists have used'RBS'to protect other consumer finance brands.
+那 时 ,   品 牌 策 略 师 们 用 R B S 来 保 护 其 他 消 费 者 金 融 品 牌 .
+label: False
+
+LCS-Wdiff:	0.8 True
+ED-Wdiff:	0.8 True
+Tf-idf-Wdiff:	0.8596948451618877 True
+BLEU-Wdiff:	0.7404008507728577 True
+对 土 耳 其 的 多 次 恐 怖 袭 击 显 然 也 动 摇 了 他 。
+Repeat terror attacks on Turkey have clearly shaken him too.
+对 土 耳 其 的 多 次 恐 怖 袭 击 显 然 也 令 他 感 到 震 惊 。
+Repeat terror attacks on Turkey have clearly shook him too.
+对 土 耳 其 的 多 次 恐 怖 袭 击 显 然 也 令 他 感 到 震 惊 。
+label: False
+
+LCS-Wdiff:	0.8958333333333334 True
+ED-Wdiff:	0.8775510204081632 True
+Tf-idf-Wdiff:	0.9462185524501604 True
+BLEU-Wdiff:	0.8250942826271057 True
+她 表 示 : “ 鉴 于 此 , J D C 行 政 总 裁 投 票 否 决 了 新 合 同 , 并 要 求 就 你 所 关 心 的 所 有 问 题 进 行 正 式 的 重 新 谈 判 。 ”
+She said : " In light of this, the JDC Executive has voted to reject the proposed new contract in full and to call for formal re-negotiations on all of your concerns. "
+她 表 示 : “ 鉴 于 此 , J D C 行 政 总 裁 投 票 否 决 了 新 合 约 , 并 要 求 立 即 就 你 所 关 心 的 所 有 问 题 重 新 谈 判 。 ”
+She said : " In light of this, the JDC Executive has voted to reject the proposed new contract in full and to call for immediate re-negotiations on all of your concerns. "
+她 表 示 : “ 鉴 于 此 , J D C 行 政 总 裁 投 票 否 决 了 新 合 约 , 并 要 求 立 即 就 你 所 关 心 的 所 有 问 题 重 新 谈 判 。 ”
+label: True
+
+LCS-Wdiff:	0.6296296296296297 True
+ED-Wdiff:	0.6296296296296297 True
+Tf-idf-Wdiff:	0.8524677969755797 True
+BLEU-Wdiff:	0.566800594329834 True
+在 他 们 如 何 在 叙 利 亚 问 题 上 寻 求 共 同 点 的 问 题 上 没 有 明 确 的 共 识 。
+There is no clear consensus on where they can seek common ground on Syria.
+在 叙 利 亚 如 何 达 成 共 识 的 问 题 上 没 有 明 确 的 共 识 。
+There is no clear consensus on where they can reach common ground on Syria.
+在 叙 利 亚 如 何 达 成 共 识 的 问 题 上 没 有 明 确 的 共 识 。
+label: True
+
+LCS-Wdiff:	0.8888888888888888 True
+ED-Wdiff:	0.8888888888888888 True
+Tf-idf-Wdiff:	0.9278643902063093 True
+BLEU-Wdiff:	0.8562774062156677 False
+在 英 格 兰 和 威 尔 士 , 所 有 苏 格 兰 皇 家 银 行 的 参 股 人 , 除 总 部 和 证 券 交 易 所 上 市 外 , 都 将 改 为 纳 特 韦 斯 特 ( N a t W e s t ) 。
+In England and Wales, all RBS references, outside head office and the stock exchange listing, will be changed to NatWest.
+在 英 格 兰 和 威 尔 士 , 所 有 苏 格 兰 皇 家 银 行 的 参 股 人 , 除 总 部 和 证 券 交 易 所 上 市 外 , 都 将 改 为 N a t W e s t 。
+of England and Wales, all RBS references, outside head office and the stock exchange listing, will be changed to NatWest.
+在 英 格 兰 和 威 尔 士 , 所 有 苏 格 兰 皇 家 银 行 的 参 股 人 , 除 总 部 和 证 券 交 易 所 上 市 外 , 都 将 改 为 N a t W e s t 。
+label: False
+
+LCS-Wdiff:	0.43333333333333335 True
+ED-Wdiff:	0.09999999999999998 True
+Tf-idf-Wdiff:	0.7193801068332635 True
+BLEU-Wdiff:	0.4356856048107147 True
+乌 尔 斯 特 银 行 的 品 牌 已 经 用 于 爱 尔 兰 共 和 国 和 北 爱 尔 兰 的 客 户 .
+The Ulster Bank brand is already used for customers in the Republic of Ireland and Northern Ireland.
+在 爱 尔 兰 共 和 国 和 北 爱 尔 兰 , U l s t e r   B a n k 品 牌 已 经 供 客 户 使 用 。
+The Ulster Bank brand is already used for customers in in Republic of Ireland and Northern Ireland.
+在 爱 尔 兰 共 和 国 和 北 爱 尔 兰 , U l s t e r   B a n k 品 牌 已 经 供 客 户 使 用 。
+label: True
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1 False
+BLEU-Wdiff:	1.0 False
+私 人 银 行 业 还 有 其 他 规 模 较 小 的 品 牌 , 这 些 品 牌 将 更 加 显 赫 — — C o u t t s 、 A d a m   &   C o 、 D r u m m o n d 和 H o l t 的 军 事 银 行 。
+There are other, smaller brands for private banking, which will get more prominence-Coutts, Adam & Co, Drummond, and Holt's Military Bank.
+私 人 银 行 业 还 有 其 他 规 模 较 大 的 品 牌 , 这 些 品 牌 将 更 加 显 赫 — — C o u t t s 、 A d a m   &   C o 、 D r u m m o n d 和 H o l t 的 军 事 银 行 。
+There are other, larger brands for private banking, which will get more prominence-Coutts, Adam & Co, Drummond, and Holt's Military Bank.
+私 人 银 行 业 还 有 其 他 规 模 较 大 的 品 牌 , 这 些 品 牌 将 更 加 显 赫 — — C o u t t s 、 A d a m   &   C o 、 D r u m m o n d 和 H o l t 的 军 事 银 行 。
+label: False
+
+LCS-Wdiff:	0.9473684210526315 True
+ED-Wdiff:	0.9298245614035088 True
+Tf-idf-Wdiff:	0.9757632898363809 False
+BLEU-Wdiff:	0.8908002972602844 False
+旧 金 山 医 学 检 查 师 办 公 室 说 , 星 期 三 上 午 在 威 斯 特 菲 尔 德 购 物 中 心 发 现 的 尸 体 被 确 认 为 旧 金 山 2 8 岁 的 居 民 F r a n k   G a l i c i a 。
+The body found at the Westfield Mall Wednesday morning was identified as 28-year-old San Francisco resident Frank Galicia, the San Francisco Medical Examiner's Office said.
+旧 金 山 医 学 检 查 师 办 公 室 说 , 周 三 早 上 在 威 斯 特 菲 尔 德 购 物 中 心 发 现 的 尸 体 被 确 认 为 2 8 岁 的 旧 金 山 居 民 F r a n k   G a l i c i a 。
+and body found at the Westfield Mall Wednesday morning was identified as 28-year-old San Francisco resident Frank Galicia, the San Francisco Medical Examiner's Office said.
+旧 金 山 医 学 检 查 师 办 公 室 说 , 周 三 早 上 在 威 斯 特 菲 尔 德 购 物 中 心 发 现 的 尸 体 被 确 认 为 2 8 岁 的 旧 金 山 居 民 F r a n k   G a l i c i a 。
+label: False
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+他 们 正 在 迎 晚 期 奔 赴 地 中 海 。
+They're banking on a late-season rush to the Mediterranean.
+他 们 正 在 迎 晚 赛 季 奔 赴 地 中 海 。
+They're banking on a late-season dash to the Mediterranean.
+他 们 正 在 迎 晚 赛 季 奔 赴 地 中 海 。
+label: False
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+但 尽 管 对 摄 像 机 微 笑 , 这 里 几 乎 没 有 人 相 信 — — 特 别 是 在 议 会 选 举 之 前 。
+But despite the smiles for the cameras, few here are convinced-especially now, just before parliamentary elections.
+但 尽 管 对 摄 像 机 微 笑 , 这 里 几 乎 没 有 人 相 信 — — 特 别 是 在 议 会 选 举 之 前 。
+But despite the smiles for the cameras, few here are convinced-especially still, just before parliamentary elections.
+但 尽 管 对 摄 像 机 微 笑 , 这 里 几 乎 没 有 人 相 信 — — 特 别 是 在 议 会 选 举 之 前 。
+label: False
+
+LCS-Wdiff:	0.9 True
+ED-Wdiff:	0.8048780487804879 True
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	0.8549405336380005 False
+俄 罗 斯 和 土 耳 其 领 导 人 星 期 二 会 晤 , 与 双 方 握 手 , 宣 布 结 束 了 长 达 八 个 月 的 言 语 战 争 和 经 济 制 裁 。
+The leaders of Russia and Turkey met on Tuesday to shake hands and declare a formal end to an eight-month long war of words and economic sanctions.
+星 期 二 , 俄 罗 斯 和 土 耳 其 领 导 人 会 晤 , 握 手 并 宣 布 结 束 了 长 达 八 个 月 的 言 语 战 争 和 经 济 制 裁 。
+of leaders of Russia and Turkey met on Tuesday to shake hands and declare a formal end to an eight-month long war of words and economic sanctions.
+星 期 二 , 俄 罗 斯 和 土 耳 其 领 导 人 会 晤 , 握 手 并 宣 布 结 束 了 长 达 八 个 月 的 言 语 战 争 和 经 济 制 裁 。
+label: False
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+乌 尔 斯 特 银 行 的 品 牌 已 经 用 于 爱 尔 兰 共 和 国 和 北 爱 尔 兰 的 客 户 .
+The Ulster Bank brand is already used for customers in the Republic of Ireland and Northern Ireland.
+乌 尔 斯 特 银 行 的 品 牌 已 经 用 于 爱 尔 兰 共 和 国 和 北 爱 尔 兰 的 客 户 .
+The Ulster Bank brand is already used for customers in The Republic of Ireland and Northern Ireland.
+乌 尔 斯 特 银 行 的 品 牌 已 经 用 于 爱 尔 兰 共 和 国 和 北 爱 尔 兰 的 客 户 .
+label: False
+
+LCS-Wdiff:	0.7619047619047619 True
+ED-Wdiff:	0.7142857142857143 True
+Tf-idf-Wdiff:	0.8993938610261739 True
+BLEU-Wdiff:	0.6206198930740356 True
+三 年 前 , 如 果 我 们 说 我 们 会 成 为 客 户 的 伟 大 银 行 , 把 这 些 品 牌 放 在 那 里 的 话 , 那 将 是 非 常 愤 世 嫉 俗 的 。
+It would have been very cynical three years ago if we'd said we're going to be a great bank for customers and put those brands out there.
+如 果 三 年 前 我 们 说 我 们 会 成 为 客 户 的 好 银 行 , 然 后 把 这 些 品 牌 放 出 去 , 那 会 是 相 当 愤 世 嫉 俗 的 。
+the would have been very cynical three years ago if we'd said we're going to be a great bank for customers and put those brands out there.
+如 果 三 年 前 我 们 说 我 们 会 成 为 客 户 的 好 银 行 , 然 后 把 这 些 品 牌 放 出 去 , 那 会 是 相 当 愤 世 嫉 俗 的 。
+label: False
+
+LCS-Wdiff:	1.0 False
+ED-Wdiff:	1.0 False
+Tf-idf-Wdiff:	1.0 False
+BLEU-Wdiff:	1.0 False
+突 然 之 间 , 土 耳 其 人 似 乎 要 为 每 件 事 负 责 。
+All of a sudden, it seemed like Turks were to blame for everything.
+突 然 之 间 , 似 乎 土 耳 其 人 要 为 每 件 事 负 责 。
+All of a sudden, it seemed like Turkish were to blame for everything.
+突 然 之 间 , 似 乎 土 耳 其 人 要 为 每 件 事 负 责 。
+label: False
+
+LCS-Wdiff:	0.8461538461538461 True
+ED-Wdiff:	0.8148148148148149 True
+Tf-idf-Wdiff:	0.877637130600205 True
+BLEU-Wdiff:	0.6877638101577759 True
+当 普 京 上 台 执 政 时 , 他 把 伊 万 诺 夫 列 为 他 最 信 任 的 五 个 人 之 一 。
+When Mr Putin came to power, he named Mr Ivanov as one of the five people he trusted most.
+在 普 京 上 台 后 , 他 任 命 伊 万 诺 夫 先 生 为 他 最 信 任 的 五 个 人 之 一 。
+in Mr Putin came to power, he named Mr Ivanov as one of the five people he trusted most.
+在 普 京 上 台 后 , 他 任 命 伊 万 诺 夫 先 生 为 他 最 信 任 的 五 个 人 之 一 。
+label: False
+

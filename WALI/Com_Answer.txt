@@ -1,0 +1,14 @@
+0.0
+0.0
+0.0
+0.0
+old lcs: 1.0
+new lcs: 1.0
+lcs: 1.0
+old ed: 1.0
+new ed: 1.0
+ed: 1.0
+old ti: 1.0
+new ti: 1.0
+ti: 1.0
+time: 680.4404096603394

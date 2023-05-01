@@ -15,9 +15,17 @@ pip install -r requirements.txt
 ## Replicate the results
 > 1. download transformer model at [transformer model](https://mega.nz/file/tDlyiSbJ#uz36-pUyrM6qXnj2h97BkKjOp4otVVTevqKi4axkpH8) and unzip the zipped file and put the model in the root directory of the repository.
 
-> 2. Go to the subdirectory **CAT**, **GRI** or **WALI**
+> 2. Go to the subdirectory **CAT**, **GRI** or **WALI**: 
 
-> 3. Run the pipeline.sh : ```sh pipeline.sh```
+```bash
+cd GRI
+```
+
+> 3. Run the pipeline.sh : 
+
+```bash 
+sh pipeline.sh
+```
 
 > 4. The bash file **pipeline.sh** inside each subfolder will trigger all source code to run.
 

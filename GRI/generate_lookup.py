@@ -5,8 +5,7 @@ mode_name = '../transformer'
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 model =AutoModelForSeq2SeqLM.from_pretrained(mode_name).to(device)
 tokenizer = AutoTokenizer.from_pretrained(mode_name, return_tensors="pt")
-# from datasets import load_dataset, load_metric
-# raw_datasets = load_dataset("wmt17", "zh-en", cache_dir="/data2/hanyings/.cache")
+
 
 with open("./f_en_mu_grad_stop.txt") as f:
     enlines = f.readlines()

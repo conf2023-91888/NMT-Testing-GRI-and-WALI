@@ -1,5 +1,5 @@
 #!/bin/sh
-# sleep 18000
+#sleep 18000
 set -e 
 echo Pipeline Start
 echo Vulnerable token identification......
@@ -7,7 +7,6 @@ python TransIndex.py
 echo Replacement of words........
 python bertMuN_stop.py
 echo Translate mutants.........
-echo translate
 python generate_lookup.py
 echo Analyze and compare translations........
 echo desp.sh
